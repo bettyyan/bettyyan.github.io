@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : 風立ちぬ
 title_separator          : "-"
-name                     : “bettyyan”
+name                     : bettyyan
 description              : "Le vent se lève, il faut tenter de vivre."
 url                      : # the base hostname & protocol for your site e.g. "https://bettyyan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -64,7 +64,7 @@ author:
   name             : “bettyyan”
   avatar           : "avatar.jpg"
   bio              : "Le vent se lève, il faut tenter de vivre."
-  location         : “Zhejiang, China”
+  location         : Zhejiang, China
   email            : “bettydingyan@hotmail.com”
   uri              :
   bitbucket        :
