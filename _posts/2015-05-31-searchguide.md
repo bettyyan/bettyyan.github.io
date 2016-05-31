@@ -12,7 +12,7 @@ description: Search Guide of Safari
 ###Tab搜索###
 
 - Chrome
-<center>![](http://7xosxw.com1.z0.glb.clouddn.com/j-chrome-1.jpg)</center>
+<center>![](bettyyan.github.io/images/j-chrome-1.png)</center>
 - Safari也可以使用Tab搜索功能！
 <center>![](http://7xosxw.com1.z0.glb.clouddn.com/j-safari-1.jpg)</center>
 
