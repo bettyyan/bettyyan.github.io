@@ -2,8 +2,8 @@
 layout: single
 title: "Search Guide: Chrome & Safari"
 categories: [others ]
-tags: [others, it, ]
-description: Search Guide:Safari
+tags: [others, ]
+description: Search Guide of Safari
 ---
 在开智学习了关于Chrome的Search Guide，受益匪浅。
 
@@ -51,4 +51,3 @@ Safari也有很多扩展插件的，但是我个人属于插件和软件能不�
 <center>
 ![](http://7xosxw.com1.z0.glb.clouddn.com/j-Safari-3.jpg)
 </center>
-
