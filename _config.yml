@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : disqus
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : kazetachine
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
