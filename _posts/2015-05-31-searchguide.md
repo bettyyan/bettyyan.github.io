@@ -6,17 +6,20 @@ tags: [others, ]
 description: Search Guide of Safari
 ---
 在开智学习了关于Chrome的Search Guide，受益匪浅。
+
 但是我的手机和电脑都是Apple的，平时无特殊情况都是使用Safari浏览器的（因为Mac开Chrome久了太烫啊！**当然，Chrome真的是很棒的浏览器，有过多少台电脑，Chrome都是我必装的浏览器啊！**），便想用在开智学到的一些Chrome浏览器上的search skills在Safari上试验下。以下是一些Safari上也可用的功能。
 
 ###Tab搜索###
+
 - Chrome
-<center>![](http://7xosxw.com1.z0.glb.clouddn.com/j-chrome-1)</center>
+<center>![](http://7xosxw.com1.z0.glb.clouddn.com/j-chrome-1.jpg)</center>
 - Safari也可以使用Tab搜索功能！
 <center>![](http://7xosxw.com1.z0.glb.clouddn.com/j-safari-1.jpg)</center>
 
 ###自定义搜索引擎###
+
 - Chrome
-<center>![](http://7xosxw.com1.z0.glb.clouddn.com/j-chrome-2)</center>
+<center>![](http://7xosxw.com1.z0.glb.clouddn.com/j-chrome-2.jpg)</center>
 - Safari会自动记住你常用的站内搜索，可以进入**偏好设置-搜索**查看。
 <center>![](http://7xosxw.com1.z0.glb.clouddn.com/j-Safari-2.jpg)</center>
 
