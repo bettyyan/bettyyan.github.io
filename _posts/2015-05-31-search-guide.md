@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Search Guide:Chrome&Safari"
+title: "Search Guide: Chrome & Safari"
 categories: [others ]
 tags: [others, it, ]
-description: Search Guide:Safari
+description: Search Guide: Safari
 ---
 在开智学习了关于Chrome的Search Guide，受益匪浅。
 
